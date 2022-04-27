@@ -11,3 +11,5 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/freecad
 *.stl
+*.pdf
+*.step
